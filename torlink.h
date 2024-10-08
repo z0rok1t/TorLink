@@ -5,9 +5,9 @@
 #include<string.h>
 #include<unistd.h> 
 #include <sys/socket.h> 
-
 #include<arpa/inet.h>
 #include<netinet/in.h>
+#include<dlfcn.h>
 
 
 #define PROXY        "127.0.0.1"
@@ -58,5 +58,5 @@ struct proxy_response{
 typedef struct proxy_response Res;
 
 
-Req *request(const char*, const int);
-int main(int, char**);
+Req *request(struct sockaddr_in*);
+int connect(int, const struct sockaddr*, socklen_t);
