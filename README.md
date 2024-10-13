@@ -28,7 +28,10 @@ Install TorLink
   
  torlink <command> <URL>
 ```
-    
+
+## License
+- MIT License
+
 ## Authors
 
 - [@z0rok1t](https://www.github.com/z0rok1t)
