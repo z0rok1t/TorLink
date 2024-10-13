@@ -1,11 +1,10 @@
+<h1 align="center">TroLink</h1>
 
-## ---------------TroLink--------------
-
-#### Increase online privacy via Tor network.
+<h4 align="center">Increase online privacy via Tor network.</h4>
 
 ## Screenshots
 
-![App Screenshot](https://www.imgtr.net/2wedfOSFVoUXtmv)
+<a target="_blank" href="https://www.imgtr.net/2wedfOSFVoUXtmv"><img  src="https://www.imgtr.net/ib/hjNRYwemp20oHTK_1728852353.png" alt="TorLink screenshot.png"/></a>
 
 
 ## Features
