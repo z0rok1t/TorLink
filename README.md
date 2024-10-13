@@ -1,4 +1,4 @@
-<h1 align="center">TroLink</h1>
+<h1 align="center">TorLink</h1>
 
 <h4 align="center">Increase online privacy via Tor network.</h4>
 
